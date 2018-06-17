@@ -1,0 +1,39 @@
+EXERCISE - DATA WRANGLING
+=============================
+
+1. IMPORT pets & owners DATA
+2. QUICK LOOK (Shape, data type, missing values, unique value)
+3. MISSING VALUE IMPUTATION (if any)
+	- GENDER
+		Dog -> male
+		Cat -> female
+		Parrot -> male
+	- AGE
+		(Dog and Cat)
+		mean of age by gender
+		example: Missing value on age female cat -> fill with age average of female cat
+
+4. DROP DUPLICATION on each table (if any)
+------------------------------
+Cross-Check
+- Dimension
+- Average of Dog Age
+- Number of Dog Male, Female
+- Average of Cat Age
+- Number of Cat Male, Female
+- Number of Parrot
+------------------------------
+5. JOIN pets & owners 
+6. DIMENSION AFTER JOINING
+7. SOME Questions
+
+a. Maximum umur anjing?
+b. Top 5 umur kucing?
+c. Binatang paling banyak?
+d. Rata-rata umur Parrot?
+e. Owner yang memelihara >3 binatang, berapa jumlah binatang
+f. Owner yang memlihara Anjing dengan umur >10 thn
+g. Selisih rata-rata umur kucing male dan female
+h. Selisih umur anjing tertua dengan rata-rata umur anjing
+
+

@@ -1,0 +1,48 @@
+ASSIGNMENT
+yunanto.putranto@gmail.com  [bootcamp 080518 - nama]
+list1 = list(range(10))  
+
+
+# 1. Slice the list to contain 5th to 10th element
+
+list2 = [["Anne", "Tim", 2017], ["Jimmy", "Sarah", 2015], ["Bella", "Alain", 2010], ["Sam", "Neveen", 2007]]
+
+
+# 2. Create list containing couple names
+
+# 3. Create list containing only year of marriage
+
+price_usd = [23.5, 60.0, 25.0, 27.5, 30.0]
+rate = 13900
+
+
+# 4. Using lambda, create list contain price in IDR
+
+Score = [55, 68, 44, 89, 90, 78, 46, 70, 45, 75]
+# 5. Create function to label student passing exam/not. Rule ( <= 40 Fail, 40 < Score <= 60 Remedi, > 60 Pass)
+
+# 6. Check success label of all student
+
+from numpy.random import randn
+
+np.random.seed(101)
+
+
+df = pd.DataFrame(randn(5,4),index='A B C D E'.split(),columns='W X Y Z'.split())
+
+# 8. Show only col W X and row A B
+
+# 9. Show col Z where W > 0
+
+# 10. Show data where Y > 0 and B < 0
+
+# 11. Calculate average of each column
+
+# 12. Find summary statistics of Y and Z
+
+# 13. Drop col Z from data frame permanently
+
+# 14. Drop row E permanently
+                  # 15. Add new column with value  W+X
+
+
